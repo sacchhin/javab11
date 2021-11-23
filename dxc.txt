@@ -1,2 +1,6 @@
 Hello! How are you...?
 Computer is a electronic device
+classification of computers on size
+1.micro comp
+2.macro comp
+3.mainframe comp
